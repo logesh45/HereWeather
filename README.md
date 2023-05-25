@@ -1,8 +1,11 @@
-# Weather App
+# HereWeather iOS App
 
-![Weather App](images/hereweather_icon.png)
+
+<img src='images/hereweather_icon.png' width='256'>
 
 Welcome to the HereWeather App! This iOS application provides real-time weather information for cities around the world. It allows users to retrieve weather data by searching for a city name or address.
+
+> 👉🏽 Please add API key in the Configuration.swift file for this app to work 👈🏽
 
 ## Features
 
@@ -19,14 +22,14 @@ Welcome to the HereWeather App! This iOS application provides real-time weather 
 
 ## Installation
 
-1. Clone the repository: `git clone https://github.com/your-username/weather-app.git`
-2. Open the project in Xcode: `open WeatherApp.xcodeproj`
-3. Configure the OpenWeather API key in Configuration.swift.
+1. Clone the repository: `git clone https://github.com/logesh45/HereWeather.git`
+2. Open the project in Xcode: `open HereWeather.xcodeproj`
+3. Configure the OpenWeather API key in `Configuration.swift`
 3. Build and run the app on the iOS Simulator or a connected device.
 
 ## Usage
 
-1. Launch the Weather App on the iOS Simulator or your device.
+1. Launch the App on the iOS Simulator or your device.
 2. Allow location access to display weather for current location.
 3. Enter a city name or address in the search bar.
 4. Tap on a suggested city or address from list.
